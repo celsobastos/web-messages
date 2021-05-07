@@ -1,5 +1,5 @@
 {
-    "name": "celsobastos/celso",
+    "name": "celso/celso",
     "require": {
         "monolog/monolog": "1.0.*"
     }
